@@ -1,4 +1,4 @@
-# Maquina-de-Frases-de-Breaking-Bad
+# Maquina de Frases de Breaking Bad
 
 Se utilizaron
 - Jquery
